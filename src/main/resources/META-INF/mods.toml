@@ -75,7 +75,7 @@ description='''Аддон для мода Hex Casting.\nРазработан и 
 [[dependencies.hexcastingexpansion]]
 modId="hexcasting"
 mandatory=true
-versionRange="[0.11.1,)"
+versionRange="[0.11.2,)"
 ordering="NONE"
 side="BOTH"
 

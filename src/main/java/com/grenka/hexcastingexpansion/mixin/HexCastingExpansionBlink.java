@@ -15,7 +15,7 @@ import org.spongepowered.asm.mixin.Overwrite;
 import java.util.List;
 import java.util.ArrayList;
 
-@Mixin(targets = "at.petrak.hexcasting.common.casting.actions.spells.OpBlink", remap = false)
+@Mixin(at.petrak.hexcasting.common.casting.actions.spells.OpBlink.class)
 public class HexCastingExpansionBlink {
 
     /**
